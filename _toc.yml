@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: docs/Voorpagina
+root: Voorpagina
 chapters:
 - file: docs/notebook
-- file: docs/Social_Media_Impact_Template
+- file: Social_Media_Impact_Template
