@@ -4,6 +4,7 @@
 format: jb-book
 chapters:
 - file: docs/notebook.ipynb
-- file: docs/Socialmedia.ipynb
-- file: docs/Social_Media_Impact_Template.ipynb 
+- file: docs/Socialmedia
+
+
 
