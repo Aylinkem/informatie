@@ -4,7 +4,7 @@
 format: jb-book
 chapters:
 - file: docs/notebook.ipynb
-- file: docs/Socialmedia
+- file: docs/Socialmedia.ipynb
 
 
 
