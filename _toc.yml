@@ -2,8 +2,8 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: docs/home.md
 chapters:
 - file: docs/notebook.ipynb
+- file: docs/Socialmedia.ipynb
 - file: docs/Social_Media_Impact_Template.ipynb 
 
